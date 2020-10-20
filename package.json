@@ -34,10 +34,10 @@
         "node": ">=0.8.0"
     },
     "dependencies": {
-        "jake": "0.5.x",
-        "glob": "3.2.x",
-        "jshint": "2.1.x",
-        "yuidocjs": "0.3.x",
+        "jake": "8.0.14",
+        "glob": "5.0.15",
+        "jshint": "2.9.3",
+        "yuidocjs": "0.10.0",
         "handlebars": "1.0.x"
     },
     "devDependencies": {
